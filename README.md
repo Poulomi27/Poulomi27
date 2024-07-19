@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poulomi</h1>
-<h3 align="center">Hi there! I’m Poulomi, a final year undergraduate student at MCKVIE, class of 2025. Coding has been my passion since high school, and I’ve enjoyed exploring it ever since. As a programmer and front-end web developer, I love crafting engaging and efficient web experiences. Additionally, I have a keen interest in machine learning and its wide-ranging applications.</h3>
+<h3 align="center">A final year undergraduate student at MCKVIE, class of 2025. Coding has been my passion since high school, and I’ve enjoyed exploring it ever since. As a programmer and front-end web developer, I love crafting engaging and efficient web experiences. Additionally, I have a keen interest in machine learning and its wide-ranging applications.</h3>
 
 <p align="left"> <img src="https://www.google.com/search?sca_esv=0859001573093002&sca_upv=1&rlz=1C1ONGR_enIN1019IN1019&sxsrf=ADLYWIJjr7Lut0DHKhRtiMj5Uk-YvJmmDw:1721375810489&q=girl+coding&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjI8NXN0LKHAxX7R2wGHfJzDwkQtKgLegQIExAB&biw=1536&bih=695&dpr=1.25#vhid=fFEA-MbfneQmkM&vssid=mosaic" alt="poulomi27" /> </p>
 
